@@ -1,21 +1,13 @@
 # The Daisy Robot
+All Errors are now fixed and the bot is working fine..
 
-### A Modular Group management Bot on Sinhala
+![Daisy](https://telegra.ph/file/d0c0156487ee42d9685e9.jpg)
 
 
-     Source Code is under an update.. (But code is working Perfectly)
-     Newly added features may be not working..  
-     It is a massive update, So it takes time.
-     
-<p align = center>
-<img src="https://telegra.ph/file/d0c0156487ee42d9685e9.jpg" width =400 Height=400 ></img>
-</p>
-
-## Available on Telegram as [@MissDaisyRobot](t.me/missdaisyrobot)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
 
-
+A Modular Group management Bot on Sinhala
 
 
 ## THE EASY WAY to Deploy 
@@ -26,50 +18,42 @@
 
 ```
 ```
-2) Get APP_ID and API_HASH from my.telegram.org
-```
-
-```
-3) Create a new bot from @botfather and copy its api token
+2) Create a new bot from @botfather and copy its api token
 
 ```
 ![api](https://telegra.ph/file/9770210e1205bce0e06bb.png)
 
 ```
-4) Click Deploy
+3) Click Deploy
 ```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
 ```
-5) Give an app name
+3) Give an app name
 
 ```
 ![Appname](https://telegra.ph/file/216e81c30118aeabd6574.png)
 ```
-36 Paste the Api token copied at token space
+3) Paste the Api token copied at token space
 
 ```
 ![Token](https://telegra.ph/file/83574a44d10a89ea8e4d9.png)
 ```
-7) Enter url of the app ass https://#Appneme.herokuapp.com
-
-8) Enter TL_APP_ID (Get from my.telegram.org 's API Development tools)
-
-9) Enter TL_API_HASH (Get from my.telegram.org 's API Development tools)
+4) Enter url of the app ass https://#Appneme.herokuapp.com
 
 ```
 ![url](https://telegra.ph/file/5b159343abc4d3a369ac0.png)
 ```
-10)Then Deploy
+5)Then Deploy
 
-11) After Deploy over click manage app
+6) After Deploy over click manage app
 ```
 ```
-12) Goto Resources and Turn Worker Emilia to on (by clicking edit)
+7) Goto Resources and Turn Worker Emilia to on (by clicking edit)
 
 ```
 ![worker](https://telegra.ph/file/eed4d6b0a2177bf7cdf76.png)
 ```
-13) Goto Logs and check for the errors
+8) Goto Logs and check for the errors
 ```
 ![logs](https://telegra.ph/file/06409b6ce522d005a3ad4.png)
 ```
@@ -248,10 +232,9 @@ through the `/stats` command, which is only available to the bot owner.
 </details>
 
 ## Special Credits
-- [Kaviya-Admin](https://github.com/kaviya-admin) - A Co-Developer of Project
 
 Thanks to this user:
 - [Arya Hikari](https://github.com/Aryahikari) - The Emilia Bot Owner
 - [Paul Larsen](https://github.com/PaulSonOfLars) - marie creator, inspiration to do many things
-
-</details>
+- [Yan Gorobtsov](https://github.com/MrYacha) - for welcome security base and connection base and maybe others
+- [アキト ミズキト](https://github.com/peaktogoo) - for reworked federation module
